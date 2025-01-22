@@ -1,0 +1,16 @@
+{
+    "name": "ezkin/demo",
+    "authors": [
+        {
+            "name": "OliverTeijsen",
+            "email": "oliverteijsen8@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
